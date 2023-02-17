@@ -6,7 +6,7 @@
 	border:2px solid black;
 	display:flex;
 	justify-content:space-between;
-	align-items:row wrap;
+	flex-warp:wrap;
 }
 
 .item{
