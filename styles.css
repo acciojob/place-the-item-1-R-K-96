@@ -1,11 +1,12 @@
 
 /* Your CSS Code here. */
 .holder{
-/*  	width:300px; */
+ 	width:300px;
 	height:400px;
 	border:2px solid black;
 	display: flex;
-	flex-warp:wrap;
+	flex-flow: row wrap;
+	justify-content:space-between;
 }
 
 .item1,.item2,.item3{
